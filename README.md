@@ -2,6 +2,10 @@
 
 This repository is clone of Collect Cubes by Alictus.
 
+### Review ###
+
+https://github.com/user-attachments/assets/318e122c-6433-4e0f-acea-5b876748c021
+
 ### What is this repository for? ###
 
 * Case Study
