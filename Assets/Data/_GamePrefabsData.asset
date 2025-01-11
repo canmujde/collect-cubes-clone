@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1d97830dfd7cba4ab3821b1a00e2ab5, type: 3}
+  m_Name: _GamePrefabsData
+  m_EditorClassIdentifier: 
+  PrefabDataList:
+  - id: -1
+    prefab: {fileID: 4195658590405298824, guid: 2582cc4d184c14f9d971a788d21330e8, type: 3}
+    size: 20
+    showInLevelEditor: 0
+  - id: 0
+    prefab: {fileID: 3125079632975349990, guid: d27506c72552e48b5aa93e2100726bfb, type: 3}
+    size: 30
+    showInLevelEditor: 0
+  - id: 1
+    prefab: {fileID: 3501565118146478210, guid: 9945c74965f7e4dfb820b03badde028f, type: 3}
+    size: 1
+    showInLevelEditor: 0
+  - id: 2
+    prefab: {fileID: 1792910567541381218, guid: aed3ebe7cfc95453592893f4a5ad71fb, type: 3}
+    size: 10
+    showInLevelEditor: 0
+  - id: 3
+    prefab: {fileID: 3214836218990190597, guid: e405788f37f444cb9bfacc93bf768237, type: 3}
+    size: 10
+    showInLevelEditor: 0
+  - id: 4
+    prefab: {fileID: 1421204989226730631, guid: 34ace0a46e78d425aadd267bc73b6889, type: 3}
+    size: 10
+    showInLevelEditor: 0
+  - id: 5
+    prefab: {fileID: -1937625956506731740, guid: 59672a90d8eb7479b9ed9faf4f23032d, type: 3}
+    size: 10
+    showInLevelEditor: 0

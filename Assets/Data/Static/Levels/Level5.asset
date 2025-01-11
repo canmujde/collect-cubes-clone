@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16db139d284232c4ab0b8be95c829743, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  aiBehavior: {fileID: 11400000, guid: 50dca67d871e14e67bd191be5cb2d138, type: 2}
+  cubeSpawnerProperties: {fileID: 11400000, guid: 1a9470331e575472f8116a22ea71da17, type: 2}
+  duration: 20
+  levelID: 5
+  levelData:
+  - prefabID: 2
+    transformData:
+      position: {x: 0, y: 0.36, z: 5.6}
+      rotation: {x: -0, y: -1, z: -0, w: 0.00000016391276}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 1
+  - prefabID: 5
+    transformData:
+      position: {x: -0.0000053668978, y: 0.12599999, z: 3.25}
+      rotation: {x: 0, y: -1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  - prefabID: 4
+    transformData:
+      position: {x: 0, y: 0.5, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  - prefabID: 3
+    transformData:
+      position: {x: -1.82, y: 1.087, z: -6.48}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1.0000007, z: 1.0000007}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  - prefabID: 1
+    transformData:
+      position: {x: 0, y: 0.12599999, z: -2.75}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  - prefabID: 2
+    transformData:
+      position: {x: 0, y: 0.36, z: -5.6}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  - prefabID: 3
+    transformData:
+      position: {x: -1.82, y: 1.087, z: 6.41}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1.0000007, z: 1.0000007}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  palettes: []

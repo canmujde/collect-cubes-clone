@@ -1,0 +1,3332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16db139d284232c4ab0b8be95c829743, type: 3}
+  m_Name: Level15
+  m_EditorClassIdentifier: 
+  aiBehavior: {fileID: 0}
+  cubeSpawnerProperties: {fileID: 0}
+  duration: 0
+  levelID: 15
+  levelData:
+  - prefabID: 0
+    transformData:
+      position: {x: 2.5854015, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.5854015, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 222222
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.5854015, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 222222
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.5854015, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 222222
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.5854015, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 222222
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.5854015, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 222222
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AF5E28
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA5533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA5533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA5533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA5533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA5533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 21140A
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.3384016, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AF5E28
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AF5E28
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAF36
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAA33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAA33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAA33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA5533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA6633
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AA6633
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AF5E28
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 2.0914016, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFDB
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFDB
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 8C602F
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.8444016, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1F150A
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 6C6C5D
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: D08F46
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A77338
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 634421
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.5974016, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1F150A
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 916729
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C77138
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C77138
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C77138
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A06E36
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 332311
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.3504016, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1F150A
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B66D49
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 916729
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E49D4D
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 785228
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 1.1034017, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1F150A
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B66D49
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 916729
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: D08F46
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 8C602F
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.8564016, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 483118
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 4.9556475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B66D49
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: DBB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 916729
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFB649
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 916729
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 8C602F
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9AB54
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 8C602F
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 8C602F
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.60940164, y: 0.29, z: -0.23135257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 4.9556475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 171717
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFA3
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AB5438
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE85C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.36240163, y: 0.29, z: -0.23135257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 4.9556475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 171717
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: EDD484
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AB5438
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE85C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: 0.11540164, y: 0.29, z: -0.23135257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 4.9556475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 171717
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E8C97D
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AB5438
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE85C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.13159835, y: 0.29, z: -0.23135257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 4.9556475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 171717
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F1DE8B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AB5438
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE85C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.37859833, y: 0.29, z: -0.23135257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 4.9556475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 171717
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F2E08D
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AB5438
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B05B2C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE85C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.6255983, y: 0.29, z: -0.23135257}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 171717
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFE354
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C7541C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E39B38
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FEE761
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFFFFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFA32E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BA5C2E
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -0.87259835, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 211008
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 4.7086473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AF5E28
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C3A770
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEEFF
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEEB2
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEE59
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEE50
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEE93
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEECC
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.1195983, y: 0.29, z: 0.015647411}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 172020
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 4.461647}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1B1B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E1BB33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: ECCE46
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F9E45C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: EED15C
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: C78E46
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A65533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.3665984, y: 0.29, z: 0.2626474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 172020
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 4.2146473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 483E29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A65533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A65533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A65533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B16833
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: CB9533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E1BB33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.6135983, y: 0.29, z: 0.5096475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 172020
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 3.9676476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 483E29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEECC
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F4DB93
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E7C450
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E1BB33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E1BB33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E1BB33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFAD31
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -1.8605983, y: 0.29, z: 0.7566476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 172020
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 3.7206473}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFDB92
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: FFEE66
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: F4DB53
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: E7C43D
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: D6A833
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BC7B33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A65533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: AD5A29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.1075983, y: 0.29, z: 1.0036476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 172020
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 3.4736476}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 242424
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 3.2266474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 483E29
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 84714B
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: A65533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B16833
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: BE7E33
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: B87533
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 9E4833
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 1.4976475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 882233
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.3545985, y: 0.29, z: 1.2506475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 172020
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.6015985, y: 0.29, z: 2.9796474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.6015985, y: 0.29, z: 2.7326474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.6015985, y: 0.29, z: 2.4856474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.6015985, y: 0.29, z: 2.2386475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.6015985, y: 0.29, z: 1.9916475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 0
+    transformData:
+      position: {x: -2.6015985, y: 0.29, z: 1.7446475}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.247, y: 0.247, z: 0.247}
+    cubeData:
+      colorHex: 1B1F21
+    collectorData:
+      belongsTo: 0
+  - prefabID: 2
+    transformData:
+      position: {x: 0, y: 0.36, z: -5.6}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  - prefabID: 1
+    transformData:
+      position: {x: 0, y: 0.12599999, z: -2.75}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    cubeData:
+      colorHex: 
+    collectorData:
+      belongsTo: 0
+  palettes: []
